@@ -6,12 +6,6 @@
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 [![Badges](https://img.shields.io/badge/badges-%F0%9F%91%8D-brightgreen.svg)](https://shields.io/)
 
-<p align="center">
-    <a href="https://s.id/2nFcX"><img src="https://repository-images.githubusercontent.com/171382500/2d2ab080-f262-11e9-82b6-8c45d6164cdf" alt="Pict by I Putu Jaya Adi Pranata - officialputuid" /></a><br />
-</p>
-
-<p>  </p>
-
 ## Table of Contents
 $ [Default or Basic Usage](#default-or-basic-usage)
 $ [Warning](#warning)
