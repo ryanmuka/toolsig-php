@@ -22,7 +22,7 @@ $ [License](#license)
 
 ## Default or Basic Usage
 	$ git clone https://github.com/officialputuid/toolsig-php.git
-	$ cd toolsig
+	$ cd toolsig-php
 	$ php index.php
 	
 ## Information Tools
